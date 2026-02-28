@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/dual-mode-keylogger/main/assets/logo.png" alt="Dual-Mode Keylogger Logo" width="200" style="border-radius: 50%;"/>
+  <img src="./assets/Logo/Logo.jpg" alt="Dual-Mode Keylogger Logo" width="200" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">
@@ -168,7 +168,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/control.png"/><br>
+        <img src="https://img.icons8.com/?size=100&id=3LWx8kXyHcXH&format=png&color=000000"/><br>
         <b>Модификаторы</b>
         <br><sub>Ctrl, Alt, Shift</sub>
       </td>
@@ -246,14 +246,8 @@ graph TB
 │   ├── 📄 run_keylogger.bat            # Быстрый запуск
 │   ├── 📄 keylogger_manager.bat        # Менеджер режимов
 │   └── 📄 install_keylogger.bat        # Установка
-├── 📂 docs
-│   ├── 📄 ARCHITECTURE.md              # Архитектура
-│   ├── 📄 WINAPI_GUIDE.md              # WinAPI функции
-│   └── 📄 SECURITY.md                   # Безопасность
 ├── 📂 assets
 │   └── 🖼️ screenshot.png                # Скриншоты
-├── 📄 .gitignore
-├── 📄 LICENSE
 └── 📄 README.md
 ```
 
@@ -267,7 +261,7 @@ graph TB
 
 ```bash
 # 1. Клонируем репозиторий
-git clone https://github.com/yourusername/dual-mode-keylogger.git
+git clone https://github.com/SirMitricks/keylogger.git
 cd dual-mode-keylogger
 
 # 2. Запускаем (программа сама скомпилируется)
@@ -384,43 +378,6 @@ bool IsUACActive() {
 
 ---
 
-## 📖 **Документация**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <a href="docs/ARCHITECTURE.md">
-          <img src="https://img.icons8.com/color/96/000000/architecture.png"/><br>
-          <b>Архитектура</b>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="docs/WINAPI_GUIDE.md">
-          <img src="https://img.icons8.com/color/96/000000/api.png"/><br>
-          <b>WinAPI Guide</b>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="docs/SECURITY.md">
-          <img src="https://img.icons8.com/color/96/000000/security-shield.png"/><br>
-          <b>Security</b>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="docs/TROUBLESHOOTING.md">
-          <img src="https://img.icons8.com/color/96/000000/support.png"/><br>
-          <b>FAQ</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
----
-
 ## 🧪 **Тестирование**
 
 <div align="center">
@@ -484,41 +441,6 @@ bool IsUACActive() {
 
 ---
 
-## 🤝 **Вклад в проект**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/yourusername/dual-mode-keylogger/fork">
-          <img src="https://img.icons8.com/color/96/000000/code-fork.png"/><br>
-          <b>Fork</b>
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/arrow.png"/>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/git-branch.png"/><br>
-        <b>Branch</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/arrow.png"/>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/commit-git.png"/><br>
-        <b>Commit</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/arrow.png"/>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/pull-request.png"/><br>
-        <b>Pull Request</b>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ### **Что можно улучшить**
 
@@ -535,14 +457,14 @@ bool IsUACActive() {
 ## 📬 **Контакты**
 
 <div align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/SirMitricks">
+    <img src="https://img.shields.io/badge/GitHub-@SirMitricks-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:yraplesecke@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yraplesecke@gmail.com-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://t.me/yourusername">
-    <img src="https://img.shields.io/badge/Telegram-@yourusername-26A5E4?style=for-the-badge&logo=telegram"/>
+  <a href="https://t.me/@SnrLancelot">
+    <img src="https://img.shields.io/badge/Telegram-@SnrLancelot-26A5E4?style=for-the-badge&logo=telegram"/>
   </a>
 </div>
 
@@ -576,7 +498,7 @@ bool IsUACActive() {
   <h3>Сделано с ❤️ для образования и исследований</h3>
   <p><i>Понимание безопасности — первый шаг к её улучшению</i></p>
   <br>
-  <sub>© 2024 Dual-Mode Keylogger Project</sub>
+  <sub>© 2026 Dual-Mode Keylogger Project</sub>
   <br>
   <sub>Windows является зарегистрированной торговой маркой Microsoft Corporation</sub>
   <br><br>
@@ -625,7 +547,7 @@ bool IsUACActive() {
 ---
 
 <p align="center">
-  <sub>Последнее обновление: 2024</sub>
+  <sub>Последнее обновление: 28.02.2026</sub>
 </p> 
 ```
 
